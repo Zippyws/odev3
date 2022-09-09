@@ -1,0 +1,13 @@
+body {margin:0 auto; background-color: #E9ECEF;}
+header {margin-bottom  : 10px;}
+header h1 {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+header .navbar ul.nav {list-style-type: none;text-align: center;}
+header .navbar ul.nav li {display: inline-block; font-size: 24px; margin-right: 20px; }
+header .navbar ul.nav li a{color: brown; font-weight: 500; text-decoration: none;}
+header .navbar ul.nav li a:hover{color:blue; }
+#main p ul {list-style-type: none!important;}
+#urunlerimiz {padding-bottom: 10px;}
+#urunlerimiz ul {text-align: center; list-style-type: none;}
+#urunlerimiz ul li span{display: block; text-align: center;}
+section h2 {color: #6f42c1; text-align: center;}
+#urunlerimiz .container .col img {width: 200px; height: 200px;}
